@@ -1,5 +1,5 @@
 
-# Common LIbraries 
+# Common Libraries, some time just we need a quick reference for libraries that help us to copy paste the pip install to enable a jupyter or linux tool to work 
 
 ## Azure (future samples)
         pip install azure-core
